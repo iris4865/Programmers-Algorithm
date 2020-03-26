@@ -13,6 +13,8 @@
 
 네오가 프로도의 비상금을 손에 넣을 수 있도록, 비밀지도의 암호를 해독하는 작업을 도와줄 프로그램을 작성하라.
 
+![online-algorithm-code/blob/master/programmers/Level 1/비밀지도/secret8.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84/secret8.png?raw=true)
+
 ## 입력 형식
 입력으로 지도의 한 변 크기 `n` 과 2개의 정수 배열 `arr1`, `arr2`가 들어온다.
 
