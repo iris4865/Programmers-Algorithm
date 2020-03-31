@@ -2,7 +2,7 @@
 
 
 ## 문제 설명
-
+![online-algorithm-code/blob/master/programmers/Level 1/실패율/프렌즈사천성.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/%EC%8B%A4%ED%8C%A8%EC%9C%A8/%ED%94%84%EB%A0%8C%EC%A6%88%EC%82%AC%EC%B2%9C%EC%84%B1.png?raw=true)
 
 슈퍼 게임 개발자 오렐리는 큰 고민에 빠졌다. 그녀가 만든 프랜즈 오천성이 대성공을 거뒀지만, 요즘 신규 사용자의 수가 급감한 것이다.  
 원인은 신규 사용자와 기존 사용자 사이에 스테이지 차이가 너무 큰 것이 문제였다.
