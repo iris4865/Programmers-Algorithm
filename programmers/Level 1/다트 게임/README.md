@@ -1,6 +1,6 @@
 # 다트 게임
-카카오톡에 뜬 네 번째 별! 심심할 땐? 카카오톡 게임별~
-
+카카오톡에 뜬 네 번째 별! 심심할 땐? 카카오톡 게임별~  
+![online-algorithm-code/blob/master/programmers/Level 1/다트 게임/gamestar.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84/gamestar.png?raw=true)
 
 ## 문제 설명
 카카오톡 게임별의 하반기 신규 서비스로 다트 게임을 출시하기로 했다. 다트 게임은 다트판에 다트를 세 차례 던져 그 점수의 합계로 실력을 겨루는 게임으로, 모두가 간단히 즐길 수 있다.
