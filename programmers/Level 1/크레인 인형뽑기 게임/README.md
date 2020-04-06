@@ -18,7 +18,7 @@
 만약 같은 모양의 인형 두 개가 바구니에 연속해서 쌓이게 되면 두 인형은 터뜨려지면서 바구니에서 사라지게 됩니다.  
 위 상태에서 이어서 [5번] 위치에서 인형을 집어 바구니에 쌓으면 같은 모양 인형 두 개가 없어집니다.
 
-![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_103.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/)
+![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_103.gif](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84/crane_game_103.gif?raw=true)
 
 크레인 작동 시 인형이 집어지지 않는 경우는 없으나 만약 인형이 없는 곳에서 크레인을 작동시키는 경우에는 아무런 일도 일어나지 않습니다.  
 또한 바구니는 모든 인형이 들어갈 수 있을 만큼 충분히 크다고 가정합니다.  
