@@ -4,7 +4,7 @@
 게임개발자인 죠르디는 크레인 인형뽑기 기계를 모바일 게임으로 만들려고 합니다.  
 죠르디는 게임의 재미를 높이기 위해 화면 구성과 규칙을 다음과 같이 게임 로직에 반영하려고 합니다.
 
-![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_101.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/)
+![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_101.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84/crane_game_101.png?raw=true)
 
 게임 화면은 1 x 1 크기의 칸들로 이루어진 N x N 크기의 정사각 격자이며 위쪽에는 크레인이 있고 오른쪽에는 바구니가 있습니다. (위 그림은 5 x 5 크기의 예시입니다).  
 각 격자 칸에는 다양한 인형이 들어 있으며 인형이 없는 칸은 빈칸입니다.  
@@ -13,7 +13,7 @@
 집어 올린 인형은 바구니에 쌓이게 되는 데, 이때 바구니의 가장 아래 칸부터 인형이 순서대로 쌓이게 됩니다.  
 다음 그림은 [1번, 5번, 3번] 위치에서 순서대로 인형을 집어 올려 바구니에 담은 모습입니다.
 
-![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_102.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/)
+![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_102.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84/crane_game_102.png?raw=true)
 
 만약 같은 모양의 인형 두 개가 바구니에 연속해서 쌓이게 되면 두 인형은 터뜨려지면서 바구니에서 사라지게 됩니다.  
 위 상태에서 이어서 [5번] 위치에서 인형을 집어 바구니에 쌓으면 같은 모양 인형 두 개가 없어집니다.
@@ -45,4 +45,4 @@ board | moves | result
 인형의 처음 상태는 문제에 주어진 예시와 같습니다.  
 크레인이 [1, 5, 3, 5, 1, 2, 1, 4] 번 위치에서 차례대로 인형을 집어서 바구니에 옮겨 담은 후, 상태는 아래 그림과 같으며 바구니에 담는 과정에서 터트려져 사라진 인형은 4개 입니다.
 
-![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_104.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/)
+![online-algorithm-code/blob/master/programmers/Level 1/크레인 인형뽑기 게임/crane_game_104.png](https://github.com/iris4865/online-algorithm-code/blob/master/programmers/Level%201/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84/crane_game_104.png?raw=true)
